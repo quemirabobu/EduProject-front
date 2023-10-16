@@ -1,0 +1,13 @@
+[data-aos][data-aos="fade-right"] {
+  transition-property: transform, opacity;
+}
+
+[data-aos="fade-right"].aos-animate {
+  transform: translate3d(-100%, 0, 0);
+  opacity: 0;
+}
+
+[data-aos="fade-right"] {
+  transform: translate3d(100%, 0, 0);
+  opacity: 1;
+}

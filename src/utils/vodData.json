@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "lectureName": "고등수학 이해",
+    "lectureContent": "함수와 미적분의 기본 개념",
+    "className": "고1 월금A반",
+    "teacherName": "이완재",
+    "uploadDate": "2023-08-04",
+    "video": "video_link_advanced_math.mp4",
+    "thumbnailImage": "thumbnail_advanced_math.jpg",
+    "lectureMaterial": "material_advanced_math.pdf",
+    "viewCount": 500
+  },
+  {
+    "id": 2,
+    "lectureName": "중등수학 이해",
+    "lectureContent": "방정식과 삼각형의 성질",
+    "className": "중1 월금B반",
+    "teacherName": "전두하",
+    "uploadDate": "2023-08-05",
+    "video": "video_link_middle_math.mp4",
+    "thumbnailImage": "thumbnail_middle_math.jpg",
+    "lectureMaterial": "material_middle_math.pdf",
+    "viewCount": 400
+  },
+  {
+    "id": 3,
+    "lectureName": "초등수학 이해",
+    "lectureContent": "덧셈, 뺄셈, 곱셈, 나눗셈의 이해",
+    "className": "초6 수토A반",
+    "teacherName": "홍길동",
+    "uploadDate": "2023-08-06",
+    "video": "video_link_elementary_math.mp4",
+    "thumbnailImage": "thumbnail_elementary_math.jpg",
+    "lectureMaterial": "material_elementary_math.pdf",
+    "viewCount": 600
+  }
+]

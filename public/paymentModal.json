@@ -1,0 +1,8 @@
+{
+  "name": "2023",
+  "month": 6,
+  "history": [
+    { "date": "2023-08-02", "courseId": "미적분", "amount": 2000 },
+    { "date": "2023-08-02", "courseId": "확률과 통계", "amount": 3000 }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "students": [
+    {
+      "sid": "001",
+      "division": "재원생",
+      "name": "홍길동",
+      "grade": "초6",
+      "parentsPhoneNumber": "010-1234-5678",
+      "studentPhoneNumber": "010-4598-2894",
+      "class": "이완재 선생님"
+    },
+    {
+      "sid": "002",
+      "division": "예비원생",
+      "name": "이완용",
+      "grade": "고3",
+      "parentsPhoneNumber": "010-4321-8765",
+      "studentPhoneNumber": "010-3819-2824",
+      "class": "이방원 선생님"
+    },
+    {
+      "sid": "003",
+      "division": "재원생",
+      "name": "윤봉길",
+      "grade": "중2",
+      "parentsPhoneNumber": "010-1981-5628",
+      "studentPhoneNumber": "010-1913-3821",
+      "class": "이성계 선생님"
+    },
+    {
+      "sid": "004",
+      "division": "재원생",
+      "name": "정도전",
+      "grade": "고1",
+      "parentsPhoneNumber": "010-1831-8921",
+      "studentPhoneNumber": "010-8812-9311",
+      "class": "전두하 선생님"
+    },
+    {
+      "sid": "005",
+      "division": "예비원생",
+      "name": "정인지",
+      "grade": "중3",
+      "parentsPhoneNumber": "010-1191-3811",
+      "studentPhoneNumber": "010-4594-2913",
+      "class": "현우진 선생님"
+    },
+    {
+      "sid": "006",
+      "division": "예비원생",
+      "name": "신숙주",
+      "grade": "초5",
+      "parentsPhoneNumber": "010-1221-5828",
+      "studentPhoneNumber": "010-4568-2814",
+      "class": "이다지 선생님"
+    },
+    {
+      "sid": "007",
+      "division": "재원생",
+      "name": "임사홍",
+      "grade": "중1",
+      "parentsPhoneNumber": "010-1913-5918",
+      "studentPhoneNumber": "010-4921-2194",
+      "class": "전한길 선생님"
+    },
+    {
+      "sid": "008",
+      "division": "예비원생",
+      "name": "이준경",
+      "grade": "고1",
+      "parentsPhoneNumber": "010-1281-5978",
+      "studentPhoneNumber": "010-4911-2914",
+      "class": "조광조 선생님"
+    },
+    {
+      "sid": "009",
+      "division": "재원생",
+      "name": "김안로",
+      "grade": "초4",
+      "parentsPhoneNumber": "010-1182-5198",
+      "studentPhoneNumber": "010-4921-2914",
+      "class": "유자광 선생님"
+    },
+    {
+      "sid": "010",
+      "division": "재원생",
+      "name": "한명회",
+      "grade": "중2",
+      "parentsPhoneNumber": "010-9714-3798",
+      "studentPhoneNumber": "010-4811-1984",
+      "class": "김종서 선생님"
+    }
+  ]
+
+}
